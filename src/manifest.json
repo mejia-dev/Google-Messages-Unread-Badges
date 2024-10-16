@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Google Messages Unread Count",
   "version": "1.0",
-  "description": "Adds unread indicators to messages.google.com!",
+  "description": "Adds unread indicators to Google Messages!",
   "author": {
     "email": "extensions@mejia.dev"
   },
